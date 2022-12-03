@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div>
+  learn react
+  <h2>
+    I updated the snapshot
+  </h2>
+</div>
+`;
